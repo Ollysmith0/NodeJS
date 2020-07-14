@@ -1,7 +1,6 @@
-html
-  head
-    title= title
-  body
+extends ./layout/common.pug
+
+block content
     message= message
 
-    a(href="/users") User list
+    a.d-block.h1(href="/users") User list

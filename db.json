@@ -1,44 +1,16 @@
 {
   "users": [
     {
-      "name": "Pie",
-      "phone": "078898878",
-      "id": "MQ2CjdZ4_"
-    },
-    {
       "name": "Olly Smith",
+      "phone": "456456",
+      "id": "B7uTtOhHa"
+    },
+    {
+      "name": "Pie",
       "phone": "123",
-      "id": "1CDcxQENp"
-    },
-    {
-      "name": "",
-      "phone": "",
-      "id": "HTDDAEp8U"
-    },
-    {
-      "name": "a",
-      "phone": "",
-      "id": "vxJVTyt1r"
-    },
-    {
-      "name": "a",
-      "phone": "",
-      "id": "LDgT6qZbv"
-    },
-    {
-      "name": "a",
-      "phone": "",
-      "id": "7RrFZGcFX"
-    },
-    {
-      "name": "",
-      "phone": "",
-      "id": "UMJqt2Os9"
-    },
-    {
-      "name": "a",
-      "phone": "",
-      "id": "ZOU38pkGr"
+      "id": "tCA4XmEpz",
+      "email": "Pie@gmail.com",
+      "password": "123"
     }
   ]
 }
