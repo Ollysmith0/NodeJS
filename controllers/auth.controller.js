@@ -12,8 +12,6 @@ module.exports.postLogin = (req, res, next) => {
     const user = db.get('users').find({ email: email }).value();
     const passwordMatched = db.get('users').find({ password: hashedPassword }).value();
 
-    console.log(hashedPassword);
-
     if(!user){
         res.render('auth/login', {
             errors: [
